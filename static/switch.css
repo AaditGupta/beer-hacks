@@ -47,8 +47,8 @@ input.cmn-toggle-round:checked + label:after {
 }
 
 .toggleText {
-    clear:all;
     color:orange;
-    position: absolute;
-    z-index: 10;
+    position: relative;
+    top:-73px;
+    left:-60px;
 }
