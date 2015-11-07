@@ -1,0 +1,15 @@
+.col-xs-12 {
+    text-align: center;
+}
+
+.switchContainer {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 25px;
+}
+
+#title {
+    color:white;
+    display:inline-block;
+    vertical-align: middle;
+}
